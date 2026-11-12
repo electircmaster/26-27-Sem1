@@ -1,0 +1,14 @@
+{
+  "schema": "csci3230_a3_v5",
+  "cnn": {
+    "width": 16
+  },
+  "transformer": {
+    "vocab_size": 35,
+    "max_length": 48,
+    "d_model": 64,
+    "num_heads": 4,
+    "num_layers": 2,
+    "d_ff": 128
+  }
+}
